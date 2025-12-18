@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# --- System / OS ---
+.DS_Store
+Thumbs.db
+
+# --- VS Code / IDEs ---
+.vscode/
+.idea/
+*.code-workspace
